@@ -14,13 +14,11 @@
           <img
             src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
         </h1>
-
-        <p>
-          ============================================================================================================================
-        </p>
+        <br/>
+        
 
         <h2>Backend Java Developer</h2>
-        <p>----------------------</p>
+        <br/>
       </div>
       <p>
         I studied computer science at UET-VNU and achieved a bachelor's degree
