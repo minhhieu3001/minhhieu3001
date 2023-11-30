@@ -40,9 +40,3 @@ Currently I am working at NTQ Solution JSC as a Java Backend developer, my job i
 
 [![](https://github-readme-stats.vercel.app/api?username=minhhieu3001&show_icons=true&theme=prussian&include_all_commits=true)](#)
 
-Contact with me
----------------
-
- ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [buiminhhieu301@gmail.com](mailto:buiminhhieu301@gmail.com) \
- \
- ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [in/hieu-bui-766815283/](https://www.linkedin.com/in/hieu-bui-766815283/)
