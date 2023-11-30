@@ -12,7 +12,7 @@ Backend Java Developer
 
 I studied computer science at UET-VNU and achieved a bachelor's degree with honors. When I went to work, because of my love for data and solving difficult issues, I chose to become a backend developer.
 
-Currently I am working at NTQ Solution JSC as a Java Backend developer, my job is to develop servers for web and apps using Spring Boot. I am continuing to learn about other languages and frameworks to serve backend development work.
+Currently I am working at NTQ Solution JSC as a Java Backend developer, i develop and maintain servers for web and apps using Spring Boot. I am continuing to learn about other languages and frameworks to serve backend development work.
 
   
 
